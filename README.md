@@ -1,1 +1,1 @@
-# otc-ceph-op-kube
+# otc-ceph-op-kube - deploying onedata provider, ceph cluster and kubernetes cluster with terraform and ansible on OTC
